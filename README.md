@@ -1,2 +1,2 @@
-# aDrumkit
-A drumkit using HTML, CSS and JavaScript
+# A Drumkit
+#### A drumkit using pure HTML, CSS and JavaScript.
